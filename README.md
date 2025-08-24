@@ -1,4 +1,4 @@
-# Math Homework Notebooks
+# Deep Learning projects Notebooks
 
 This repository contains a small collection of Jupyter notebooks (HW1–HW6). They are organized under `notebooks/` and saved without outputs for a cleaner Git history.
 
