@@ -2,7 +2,6 @@
 
 This repository contains a small collection of Jupyter notebooks (HW1–HW6). They are organized under `notebooks/` and saved without outputs for a cleaner Git history.
 
-> Tip: If these notebooks come from a course, consider keeping the repo **private** to avoid violating any class policies.
 
 ## What's inside
 - HW1.ipynb
